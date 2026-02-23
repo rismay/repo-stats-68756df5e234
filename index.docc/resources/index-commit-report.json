@@ -1,0 +1,3747 @@
+{
+  "commitInterval" : "week",
+  "cumulativeFiles" : {
+    "2026-01" : {
+      "docc" : 128,
+      "md" : 3310,
+      "swift" : 3803
+    },
+    "2026-02" : {
+      "docc" : 184,
+      "md" : 3315,
+      "swift" : 3992
+    }
+  },
+  "cumulativePackageSwift" : {
+    "2026-01" : 149,
+    "2026-02" : 167
+  },
+  "days" : [
+    {
+      "day" : "2026-01",
+      "ownedFiles" : {
+        "docc" : 128,
+        "md" : 3310,
+        "swift" : 3803
+      },
+      "ownedFilesByOrgUser" : {
+        ".clia" : {
+          "docc" : 151,
+          "md" : 713,
+          "swift" : 36
+        },
+        ".wrkstrm" : {
+          "md" : 8
+        },
+        "AGENTS.md" : {
+          "md" : 4
+        },
+        "ARCHITECTURE.md" : {
+          "md" : 2
+        },
+        "README.md" : {
+          "md" : 3
+        },
+        "apple" : {
+          "docc" : 233,
+          "md" : 1562,
+          "swift" : 1458
+        },
+        "docc" : {
+          "docc" : 170,
+          "md" : 10082,
+          "swift" : 62
+        },
+        "orgs" : {
+          "docc" : 48,
+          "md" : 743,
+          "swift" : 1050
+        },
+        "web" : {
+          "md" : 3
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "#685"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add and update docc documentation for workspace schemes"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add bundle metrics caching and new tests for googlegenerativeai"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add check for missing pageimage resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add cli commands for heading capitalization across root"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add clia chat command proposals feature docs and updates"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add codeswiftly 2025 roundup documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-log submodule and update multiple packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-shell submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add commonconsolekit package and update launchpad docc flag"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add commonschwablib target and update dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add docc documentation for mono.xcworkspace targets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add docc minimum layout templates and update spm to swift 6.2"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add example for resource url resolution in docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add foundry-classic-mac legacy macos app target"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add gecko agent profiles and update test fixtures"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add heading capitalization fixer to docc validator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add initial generated site output for code swiftly"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add initial mono root agent documentation and assets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add initializers to commonoptionquote and greeks structs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add invalid topics content issue handling and test"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add journal entry for codeswiftly docc preview routing fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add kebab-case audit and cli subcommand"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add missing image and topics validation to docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add notion 2026 docs, code swiftly updates, and new cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add oss scaffolding and ci for publiclib"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add platform minimums override and docc root validator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add public-lib as submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add root agent avatar and update documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add schwab quote service and update agent paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add sketch-style svg resources and documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add swift tools version audit and docc layout checks"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add tau agency agent files and update template paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add tau agent docc expertise and telemetry docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-github-io as github pages submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-main submodule and update swift-log"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-networking submodule and docc workspace docs"
+        },
+        {
+          "commits" : 6,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "ci"
+        },
+        {
+          "commits" : 1,
+          "theme" : "commissioned package-local agents and updated journal"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create configs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create google-ai-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create public-lib-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create swift-figlet-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "disable code signing for foundry macos target"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc!"
+        },
+        {
+          "commits" : 10,
+          "theme" : "docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "document codeswiftly docc preview routing fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand roundup-report cli and update ai chat ui"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand roundup-report cli and update docc roundups"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand swiftui deep dive docs and add leetcode assets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand taureportcli options and scanning logic"
+        },
+        {
+          "commits" : 3,
+          "theme" : "feat"
+        },
+        {
+          "commits" : 1,
+          "theme" : "fix heading capitalization check logic"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve dependency handling in package.swift files"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve heading capitalization rules and tests"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve heading validation with brand exceptions"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve markdown file discovery in docc validator cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve resource validation and update tests"
+        },
+        {
+          "commits" : 1,
+          "theme" : "log package-local agent commissioning and expertise update"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move documentation files to private directory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move private docc files to host\/local directory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "redirect design systems docs to wrkstrm.github.io"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor agent and package paths; update dependency logic"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor agent triads and add public sample templates"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor and expand docc content, add new features"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor and expand docc content, add svg resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor and expand docc memory bundles and resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor docc generation to use memory.docc as source"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor markdown file discovery and update heading words"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor passkit docs and update roundups"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor paths and dependencies for portability"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor shared swift files into feature-based folders"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor test resources and add docc metadata validation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor workflows to use matrix for os selection"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor wrkstrmfoundation and wrkstrmmain package paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove maintainer agent docs and update dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove publiclib integration from common-broker"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove redundant guardrails from tau agent profile"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove tau agent agency, agenda, and metadata files"
+        },
+        {
+          "commits" : 2,
+          "theme" : "remove wrkstrm-github-io submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove wrkstrm-networking package and update docc command"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename agent config files to use @ in filenames"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename agent json files for consistency"
+        },
+        {
+          "commits" : 3,
+          "theme" : "rename agent json files to use @ separator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename and update common agent config files"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename dflatlib to swiftdirectorytools and update docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename docc-preview-cli to docc-wrkstrm-cli and add export subcommand"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename dott agent files and update inheritance path"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename generative-ai-swift to google-ai-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename index.md files to readme.md across project"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename product-owner agent json files with @ separator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename public-lib to public-lib-swift and update references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename tau-report to roundup-report and refactor cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename wrkstrmkit to wrkstrm-kit and update references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "restructure docc articles and add memory resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize capitalization in documentation headings"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize docc header capitalization for agents"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize heading capitalization and 'vs' usage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize heading capitalization in documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize naming to kebab-case and update agent files"
+        },
+        {
+          "commits" : 3,
+          "theme" : "submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "submodules!"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update .gitmodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update agent file naming conventions and docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update agent file naming conventions and lint config path"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update agent triad file naming and references"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update agents.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update and expand documentation across multiple modules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update and expand documentation articles"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update and sync documentation across multiple modules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update any-language-model"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update apple-dates submodule to latest commit"
+        },
+        {
+          "commits" : 5,
+          "theme" : "update cli-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update cli-kit and common-shell submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-agent-profile.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-log"
+        },
+        {
+          "commits" : 4,
+          "theme" : "update common-process"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-process and common-shell submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-process submodule to latest commit"
+        },
+        {
+          "commits" : 4,
+          "theme" : "update common-shell"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update commonlog package path and version references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update config paths and agent naming conventions"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update configs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update dependencies and agentscommand options"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update dependencies and fix swiftfigletkit url"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update dependencies and refine documentation and test config"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc assets and journal entries"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc github pages path conventions"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc paths to reflect new private\/public structure"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc-design-system-published-websites.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc-design-system-visualization-engines.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update formaterror.swift"
+        },
+        {
+          "commits" : 4,
+          "theme" : "update google-ai-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update headingcapitalization.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update linting config paths in scripts and docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update macos deployment target and logger declaration"
+        },
+        {
+          "commits" : 4,
+          "theme" : "update package.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update pagespublisher.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update project.pbxproj"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update project.yml.tmpl"
+        },
+        {
+          "commits" : 3,
+          "theme" : "update public-lib-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update sosumi-extractor-epic.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update spm submodules to latest commits"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update submodule references to latest commits"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodules and improve docc navigation docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodules in configs and common-process"
+        },
+        {
+          "commits" : 5,
+          "theme" : "update submodules to latest commits"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update svg asset naming and docc-preview cli usage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swift package paths to new orgs directory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swift-format-files.txt"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swiftfigletkit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update typingpracticeview.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-foundation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-github-io"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update wrkstrm-networking"
+        },
+        {
+          "commits" : 5,
+          "theme" : "update wrkstrm-performance"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update wrkstrmcolor"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update wrkstrmfoundation"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update wrkstrmkit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrmnetworking package name references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrmnetworking package name to wrkstrm-networking"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrmpackageaudit.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update xcode project dependencies and swift settings"
+        }
+      ],
+      "total" : 221
+    },
+    {
+      "day" : "2026-02",
+      "ownedFiles" : {
+        "docc" : 184,
+        "md" : 3315,
+        "swift" : 3992
+      },
+      "ownedFilesByOrgUser" : {
+        ".clia" : {
+          "docc" : 79,
+          "md" : 303,
+          "swift" : 4
+        },
+        ".github-private" : {
+          "md" : 1
+        },
+        ".wrkstrm" : {
+          "docc" : 48,
+          "md" : 388,
+          "swift" : 54
+        },
+        "AGENTS.md" : {
+          "md" : 13
+        },
+        "ARCHITECTURE.md" : {
+          "md" : 5
+        },
+        "HEARTBEAT.md" : {
+          "md" : 2
+        },
+        "IDENTITY.md" : {
+          "md" : 2
+        },
+        "README.md" : {
+          "md" : 3
+        },
+        "SOUL.md" : {
+          "md" : 1
+        },
+        "TOOLS.md" : {
+          "md" : 1
+        },
+        "USER.md" : {
+          "md" : 1
+        },
+        "apple" : {
+          "md" : 60,
+          "swift" : 163
+        },
+        "docc" : {
+          "docc" : 24,
+          "md" : 507,
+          "swift" : 6
+        },
+        "memory" : {
+          "md" : 1
+        },
+        "modules\/clia-org" : {
+          "docc" : 1,
+          "md" : 15
+        },
+        "modules\/codeswiftly" : {
+          "docc" : 1,
+          "md" : 18
+        },
+        "modules\/finance" : {
+          "md" : 5,
+          "swift" : 27
+        },
+        "modules\/laussat-studio" : {
+          "docc" : 2,
+          "md" : 32
+        },
+        "modules\/tau-app" : {
+          "md" : 1
+        },
+        "organisms" : {
+          "docc" : 33,
+          "md" : 257,
+          "swift" : 564
+        },
+        "orgs" : {
+          "docc" : 88,
+          "md" : 1242,
+          "swift" : 2068
+        },
+        "private" : {
+          "docc" : 68,
+          "md" : 2138,
+          "swift" : 3037
+        },
+        "provisioned" : {
+          "docc" : 122,
+          "md" : 988
+        },
+        "public" : {
+          "docc" : 17,
+          "md" : 162,
+          "swift" : 599
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "#686"
+        },
+        {
+          "commits" : 4,
+          "theme" : "add"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add allora-text org profile readme drafts"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add allora-text org public\/private readme templates"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add claw-meets-clia"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-ai submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-shell and switch wrkstrm-main to remote"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add declaw v1 demo-flow + transcript docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add git submodule sop and design system docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add john whitecastle operator journal to memory.docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add linux test workflow for swift universal"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add notionlib and swiftterminallinkrewriter packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add openclaw runtime docs and update cli dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add openclaw submodule and update references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add operator profile for tkoh and provisioned collab site"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add operator profile scaffold for jakor"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add provisioned rismay-requests docc bundle; bump rismay.github.io submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add provisioned wrkstrm token usage docc bundle"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add rismay astrological information to operator memory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add submodule-audit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add swift directory, json, and md formatter packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add swift playground and update submodule refs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add text-allora mono as submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-finance github pages host skeleton"
+        },
+        {
+          "commits" : 1,
+          "theme" : "adjust swift-repo-stats cli behavior"
+        },
+        {
+          "commits" : 1,
+          "theme" : "agenda threads linkage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "agenda-thread-link"
+        },
+        {
+          "commits" : 1,
+          "theme" : "agenda-thread-report threads buckets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "audit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "avoid duplicate wrkstrm identities"
+        },
+        {
+          "commits" : 1,
+          "theme" : "brand assets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "brand identity doc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "bump clia-org + wrkstrm public docc pages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "bump wrkstrm-finance + wrkstrm-kit submodule refs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "bump wrkstrm.github.io pages submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "carrie philographic"
+        },
+        {
+          "commits" : 69,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "ci"
+        },
+        {
+          "commits" : 1,
+          "theme" : "claw vs clia doc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "claw vs clia hub"
+        },
+        {
+          "commits" : 7,
+          "theme" : "clia"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia card wordmark"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia-agent-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia-agent-cli resources + sample"
+        },
+        {
+          "commits" : 12,
+          "theme" : "clia-org"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia-org, codeswiftly, openclaw, wrkstrm-finance"
+        },
+        {
+          "commits" : 1,
+          "theme" : "code-swiftly"
+        },
+        {
+          "commits" : 1,
+          "theme" : "code\/mono"
+        },
+        {
+          "commits" : 1,
+          "theme" : "codex hero line"
+        },
+        {
+          "commits" : 1,
+          "theme" : "codex narrative"
+        },
+        {
+          "commits" : 1,
+          "theme" : "collab route"
+        },
+        {
+          "commits" : 4,
+          "theme" : "collab tkoh"
+        },
+        {
+          "commits" : 3,
+          "theme" : "common-broker"
+        },
+        {
+          "commits" : 3,
+          "theme" : "common-cli"
+        },
+        {
+          "commits" : 2,
+          "theme" : "common-shell"
+        },
+        {
+          "commits" : 1,
+          "theme" : "commoncli"
+        },
+        {
+          "commits" : 3,
+          "theme" : "data"
+        },
+        {
+          "commits" : 1,
+          "theme" : "declaw request doc"
+        },
+        {
+          "commits" : 3,
+          "theme" : "deps"
+        },
+        {
+          "commits" : 3,
+          "theme" : "design-system"
+        },
+        {
+          "commits" : 1,
+          "theme" : "dev curves doc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "discord"
+        },
+        {
+          "commits" : 1,
+          "theme" : "do it."
+        },
+        {
+          "commits" : 17,
+          "theme" : "docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc design"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc design system"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc merge fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc repo pages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc-requests"
+        },
+        {
+          "commits" : 9,
+          "theme" : "docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "drop -0"
+        },
+        {
+          "commits" : 1,
+          "theme" : "email update"
+        },
+        {
+          "commits" : 1,
+          "theme" : "enhance package audit target introspection and update dependencies"
+        },
+        {
+          "commits" : 2,
+          "theme" : "feat"
+        },
+        {
+          "commits" : 9,
+          "theme" : "fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "fix common-process local dep path for common-log"
+        },
+        {
+          "commits" : 1,
+          "theme" : "fix swift-docc-deploy provisioned-share workflow"
+        },
+        {
+          "commits" : 1,
+          "theme" : "friendlier clia intro"
+        },
+        {
+          "commits" : 1,
+          "theme" : "front page install"
+        },
+        {
+          "commits" : 1,
+          "theme" : "front page reframing"
+        },
+        {
+          "commits" : 1,
+          "theme" : "getting started"
+        },
+        {
+          "commits" : 10,
+          "theme" : "github-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "handoff bucket support"
+        },
+        {
+          "commits" : 1,
+          "theme" : "hero q2 2025"
+        },
+        {
+          "commits" : 1,
+          "theme" : "legacy agenda thread report"
+        },
+        {
+          "commits" : 1,
+          "theme" : "link task-assistant"
+        },
+        {
+          "commits" : 1,
+          "theme" : "lower common-shell\/common-process platforms to macos 14"
+        },
+        {
+          "commits" : 1,
+          "theme" : "lower swift-common-cli and swift-directory-tools platforms to macos 14"
+        },
+        {
+          "commits" : 1,
+          "theme" : "main characters categories"
+        },
+        {
+          "commits" : 1,
+          "theme" : "merge into wrapped docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "migrate google-ai-swift package to wrkstrm org"
+        },
+        {
+          "commits" : 1,
+          "theme" : "migrate publiclib to swift-public-brokerage-lib"
+        },
+        {
+          "commits" : 1,
+          "theme" : "migrate swift-formatting-core and update dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "mirror→docc thread pages"
+        },
+        {
+          "commits" : 4,
+          "theme" : "mission-control.sop"
+        },
+        {
+          "commits" : 52,
+          "theme" : "mono"
+        },
+        {
+          "commits" : 1,
+          "theme" : "mono.xcworkspace"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move notionlib from system to api domain"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move swift-threads-cli to wrkstrm public tooling"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move tau agent triads to wrkstrm-finance org root"
+        },
+        {
+          "commits" : 2,
+          "theme" : "onboarding"
+        },
+        {
+          "commits" : 1,
+          "theme" : "operators"
+        },
+        {
+          "commits" : 1,
+          "theme" : "operators collab"
+        },
+        {
+          "commits" : 1,
+          "theme" : "orange brand"
+        },
+        {
+          "commits" : 2,
+          "theme" : "org sop"
+        },
+        {
+          "commits" : 1,
+          "theme" : "package-audit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "package-steward"
+        },
+        {
+          "commits" : 1,
+          "theme" : "package-steward v2 inject"
+        },
+        {
+          "commits" : 1,
+          "theme" : "pages redirect fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "pantera"
+        },
+        {
+          "commits" : 1,
+          "theme" : "per-repo sections"
+        },
+        {
+          "commits" : 3,
+          "theme" : "prepare submodule"
+        },
+        {
+          "commits" : 4,
+          "theme" : "profile"
+        },
+        {
+          "commits" : 2,
+          "theme" : "profiles command rename"
+        },
+        {
+          "commits" : 1,
+          "theme" : "provision wrkstrm-org-design-system docc bundle"
+        },
+        {
+          "commits" : 8,
+          "theme" : "provisioned"
+        },
+        {
+          "commits" : 1,
+          "theme" : "prune commoncli git\/gh adapters to in-use options"
+        },
+        {
+          "commits" : 1,
+          "theme" : "publish 2025 wrapped"
+        },
+        {
+          "commits" : 1,
+          "theme" : "publish swift-terminal-link-rewriter dependency"
+        },
+        {
+          "commits" : 1,
+          "theme" : "redirect fix"
+        },
+        {
+          "commits" : 3,
+          "theme" : "refactor"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove commonswift brand identity docc bundle"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove design-systems docc stub"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove myplayground.playground"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove nested agentify\/openclaw submodules and update submodule docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove private brand refs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove schwablib and legacy swift-directory-tools"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove tradierlib and add swift-directory-tools package"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename submodule design docs to organisms arm"
+        },
+        {
+          "commits" : 1,
+          "theme" : "replaced by text-allora repos"
+        },
+        {
+          "commits" : 1,
+          "theme" : "repo links"
+        },
+        {
+          "commits" : 1,
+          "theme" : "roster"
+        },
+        {
+          "commits" : 1,
+          "theme" : "roster link"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scale + perf docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scope of work doc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scope stats"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scope tables"
+        },
+        {
+          "commits" : 1,
+          "theme" : "silo collab"
+        },
+        {
+          "commits" : 1,
+          "theme" : "single index.docc root"
+        },
+        {
+          "commits" : 5,
+          "theme" : "sop"
+        },
+        {
+          "commits" : 1,
+          "theme" : "spm"
+        },
+        {
+          "commits" : 1,
+          "theme" : "sre"
+        },
+        {
+          "commits" : 4,
+          "theme" : "submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "submodule audit"
+        },
+        {
+          "commits" : 25,
+          "theme" : "submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "swift universal link"
+        },
+        {
+          "commits" : 1,
+          "theme" : "swift universal link placement"
+        },
+        {
+          "commits" : 7,
+          "theme" : "swift-threads"
+        },
+        {
+          "commits" : 3,
+          "theme" : "swift-threads-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "switch commonai to wrkstrm submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "switch finance libs to wrkstrm-finance org"
+        },
+        {
+          "commits" : 2,
+          "theme" : "sync"
+        },
+        {
+          "commits" : 1,
+          "theme" : "tau agent moved under org root"
+        },
+        {
+          "commits" : 1,
+          "theme" : "tenancy schema"
+        },
+        {
+          "commits" : 1,
+          "theme" : "test"
+        },
+        {
+          "commits" : 2,
+          "theme" : "threads"
+        },
+        {
+          "commits" : 1,
+          "theme" : "timeline dated"
+        },
+        {
+          "commits" : 1,
+          "theme" : "top section update"
+        },
+        {
+          "commits" : 1,
+          "theme" : "topics reorder"
+        },
+        {
+          "commits" : 1,
+          "theme" : "track common-broker as wrkstrm-finance submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "track swift-public-brokerage-lib as wrkstrm-finance submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "track swift-tradier-lib as wrkstrm-finance submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads + s-type docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads mirror command"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads sidecar jsonl naming"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads\/s-type topics"
+        },
+        {
+          "commits" : 7,
+          "theme" : "triage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update audit.foundry.json"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update claw vs clia development"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update clia-mac-app.xcscheme"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update clia-org pages submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update clia-org provisioned design system"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update codeswiftly.github.io"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-shell"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update laussat-studio pages submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update local dependency paths in finance packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update package.resolved"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update public-lib-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update spm pins and local package paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodule"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swift-public-brokerage-lib"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm repo-stats share content and cli behavior"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm submodule pointers"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-foundation and wrkstrm-networking submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-kit path and add docc workflows"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-kit submodule to latest commit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-main"
+        },
+        {
+          "commits" : 1,
+          "theme" : "use named remote dependency for common-log"
+        },
+        {
+          "commits" : 1,
+          "theme" : "v0"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrapped landing"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrapped overview"
+        },
+        {
+          "commits" : 2,
+          "theme" : "wrkstrm"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm provisioned"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm requests.docc"
+        },
+        {
+          "commits" : 2,
+          "theme" : "wrkstrm sop"
+        },
+        {
+          "commits" : 3,
+          "theme" : "wrkstrm-finance"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm-finance pages"
+        },
+        {
+          "commits" : 3,
+          "theme" : "wrkstrm-finance pages host"
+        },
+        {
+          "commits" : 10,
+          "theme" : "wrkstrm.sop"
+        }
+      ],
+      "total" : 486
+    }
+  ],
+  "fileInterval" : "month",
+  "generatedAt" : "2026-02-23",
+  "includeMerges" : false,
+  "packageSwiftInterval" : "month",
+  "showEmptyWeeks" : false,
+  "since" : "2026-01-01",
+  "totalOwnedFiles" : {
+    "docc" : 1085,
+    "md" : 19266,
+    "swift" : 9128
+  },
+  "totalOwnedFilesByModule" : {
+    ".clia" : {
+      "docc" : 230,
+      "md" : 1016,
+      "swift" : 40
+    },
+    ".github-private" : {
+      "md" : 1
+    },
+    ".wrkstrm" : {
+      "docc" : 48,
+      "md" : 396,
+      "swift" : 54
+    },
+    "AGENTS.md" : {
+      "md" : 17
+    },
+    "ARCHITECTURE.md" : {
+      "md" : 7
+    },
+    "HEARTBEAT.md" : {
+      "md" : 2
+    },
+    "IDENTITY.md" : {
+      "md" : 2
+    },
+    "README.md" : {
+      "md" : 6
+    },
+    "SOUL.md" : {
+      "md" : 1
+    },
+    "TOOLS.md" : {
+      "md" : 1
+    },
+    "USER.md" : {
+      "md" : 1
+    },
+    "apple" : {
+      "docc" : 233,
+      "md" : 1622,
+      "swift" : 1621
+    },
+    "docc" : {
+      "docc" : 194,
+      "md" : 10589,
+      "swift" : 68
+    },
+    "memory" : {
+      "md" : 1
+    },
+    "modules\/clia-org" : {
+      "docc" : 1,
+      "md" : 15
+    },
+    "modules\/codeswiftly" : {
+      "docc" : 1,
+      "md" : 18
+    },
+    "modules\/finance" : {
+      "md" : 5,
+      "swift" : 27
+    },
+    "modules\/laussat-studio" : {
+      "docc" : 2,
+      "md" : 32
+    },
+    "modules\/tau-app" : {
+      "md" : 1
+    },
+    "organisms" : {
+      "docc" : 33,
+      "md" : 257,
+      "swift" : 564
+    },
+    "orgs" : {
+      "docc" : 136,
+      "md" : 1985,
+      "swift" : 3118
+    },
+    "private" : {
+      "docc" : 68,
+      "md" : 2138,
+      "swift" : 3037
+    },
+    "provisioned" : {
+      "docc" : 122,
+      "md" : 988
+    },
+    "public" : {
+      "docc" : 17,
+      "md" : 162,
+      "swift" : 599
+    },
+    "web" : {
+      "md" : 3
+    }
+  },
+  "until" : "2026-02-23",
+  "weeks" : [
+    {
+      "ownedFiles" : {
+        "docc" : 36,
+        "md" : 525,
+        "swift" : 74
+      },
+      "ownedFilesByModule" : {
+        ".clia" : {
+          "docc" : 16,
+          "md" : 87
+        },
+        "apple" : {
+          "docc" : 12,
+          "md" : 83,
+          "swift" : 70
+        },
+        "docc" : {
+          "docc" : 8,
+          "md" : 355,
+          "swift" : 4
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "add bundle metrics caching and new tests for googlegenerativeai"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add notion 2026 docs, code swiftly updates, and new cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor and expand docc content, add new features"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update cli-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-process submodule to latest commit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodules in configs and common-process"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodules to latest commits"
+        }
+      ],
+      "total" : 7,
+      "weekEnd" : "2026-01-04",
+      "weekStart" : "2025-12-29"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 354,
+        "md" : 5826,
+        "swift" : 482
+      },
+      "ownedFilesByModule" : {
+        ".clia" : {
+          "docc" : 105,
+          "md" : 521,
+          "swift" : 8
+        },
+        "AGENTS.md" : {
+          "md" : 1
+        },
+        "apple" : {
+          "docc" : 167,
+          "md" : 1011,
+          "swift" : 434
+        },
+        "docc" : {
+          "docc" : 82,
+          "md" : 4293,
+          "swift" : 40
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "add check for missing pageimage resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add cli commands for heading capitalization across root"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add clia chat command proposals feature docs and updates"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add codeswiftly 2025 roundup documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add example for resource url resolution in docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add heading capitalization fixer to docc validator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add invalid topics content issue handling and test"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add journal entry for codeswiftly docc preview routing fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add missing image and topics validation to docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add tau agent docc expertise and telemetry docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc!"
+        },
+        {
+          "commits" : 4,
+          "theme" : "docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "document codeswiftly docc preview routing fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand roundup-report cli and update ai chat ui"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand roundup-report cli and update docc roundups"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand swiftui deep dive docs and add leetcode assets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "expand taureportcli options and scanning logic"
+        },
+        {
+          "commits" : 1,
+          "theme" : "fix heading capitalization check logic"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve heading capitalization rules and tests"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve heading validation with brand exceptions"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve markdown file discovery in docc validator cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve resource validation and update tests"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor and expand docc content, add svg resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor markdown file discovery and update heading words"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor shared swift files into feature-based folders"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor test resources and add docc metadata validation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor workflows to use matrix for os selection"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename docc-preview-cli to docc-wrkstrm-cli and add export subcommand"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename tau-report to roundup-report and refactor cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "restructure docc articles and add memory resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize capitalization in documentation headings"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize docc header capitalization for agents"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize heading capitalization and 'vs' usage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize heading capitalization in documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update and expand documentation across multiple modules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update and expand documentation articles"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update and sync documentation across multiple modules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update any-language-model"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update cli-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-process and common-shell submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc-design-system-visualization-engines.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update headingcapitalization.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update pagespublisher.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update sosumi-extractor-epic.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update spm submodules to latest commits"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodule references to latest commits"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodules and improve docc navigation docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodules to latest commits"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update svg asset naming and docc-preview cli usage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swiftfigletkit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-performance"
+        }
+      ],
+      "total" : 54,
+      "weekEnd" : "2026-01-11",
+      "weekStart" : "2026-01-05"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 79,
+        "md" : 542,
+        "swift" : 888
+      },
+      "ownedFilesByModule" : {
+        ".clia" : {
+          "docc" : 22,
+          "md" : 90,
+          "swift" : 21
+        },
+        ".wrkstrm" : {
+          "md" : 8
+        },
+        "AGENTS.md" : {
+          "md" : 3
+        },
+        "ARCHITECTURE.md" : {
+          "md" : 2
+        },
+        "README.md" : {
+          "md" : 1
+        },
+        "apple" : {
+          "docc" : 34,
+          "md" : 287,
+          "swift" : 867
+        },
+        "docc" : {
+          "docc" : 23,
+          "md" : 151
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "add and update docc documentation for workspace schemes"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-log submodule and update multiple packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add commonconsolekit package and update launchpad docc flag"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add commonschwablib target and update dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add docc documentation for mono.xcworkspace targets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add docc minimum layout templates and update spm to swift 6.2"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add foundry-classic-mac legacy macos app target"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add gecko agent profiles and update test fixtures"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add initial mono root agent documentation and assets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add kebab-case audit and cli subcommand"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add oss scaffolding and ci for publiclib"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add public-lib as submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add root agent avatar and update documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add schwab quote service and update agent paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add swift tools version audit and docc layout checks"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add tau agency agent files and update template paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-main submodule and update swift-log"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-networking submodule and docc workspace docs"
+        },
+        {
+          "commits" : 6,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "ci"
+        },
+        {
+          "commits" : 1,
+          "theme" : "commissioned package-local agents and updated journal"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create configs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create google-ai-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create public-lib-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "create swift-figlet-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "disable code signing for foundry macos target"
+        },
+        {
+          "commits" : 6,
+          "theme" : "docs"
+        },
+        {
+          "commits" : 3,
+          "theme" : "feat"
+        },
+        {
+          "commits" : 1,
+          "theme" : "improve dependency handling in package.swift files"
+        },
+        {
+          "commits" : 1,
+          "theme" : "log package-local agent commissioning and expertise update"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor agent and package paths; update dependency logic"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor agent triads and add public sample templates"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor docc generation to use memory.docc as source"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor paths and dependencies for portability"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor wrkstrmfoundation and wrkstrmmain package paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove maintainer agent docs and update dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove redundant guardrails from tau agent profile"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove tau agent agency, agenda, and metadata files"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove wrkstrm-networking package and update docc command"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename agent config files to use @ in filenames"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename agent json files for consistency"
+        },
+        {
+          "commits" : 3,
+          "theme" : "rename agent json files to use @ separator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename and update common agent config files"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename dflatlib to swiftdirectorytools and update docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename dott agent files and update inheritance path"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename generative-ai-swift to google-ai-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename product-owner agent json files with @ separator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename public-lib to public-lib-swift and update references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename wrkstrmkit to wrkstrm-kit and update references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "standardize naming to kebab-case and update agent files"
+        },
+        {
+          "commits" : 2,
+          "theme" : "submodules"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update .gitmodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update agent file naming conventions and docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update agent file naming conventions and lint config path"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update agent triad file naming and references"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update agents.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update apple-dates submodule to latest commit"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update cli-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update cli-kit and common-shell submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-agent-profile.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-log"
+        },
+        {
+          "commits" : 4,
+          "theme" : "update common-process"
+        },
+        {
+          "commits" : 3,
+          "theme" : "update common-shell"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update commonlog package path and version references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update config paths and agent naming conventions"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update configs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update dependencies and agentscommand options"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update dependencies and fix swiftfigletkit url"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update dependencies and refine documentation and test config"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update formaterror.swift"
+        },
+        {
+          "commits" : 3,
+          "theme" : "update google-ai-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update linting config paths in scripts and docs"
+        },
+        {
+          "commits" : 3,
+          "theme" : "update package.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update project.pbxproj"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update project.yml.tmpl"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodule references to latest commits"
+        },
+        {
+          "commits" : 3,
+          "theme" : "update submodules to latest commits"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update typingpracticeview.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-foundation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-networking"
+        },
+        {
+          "commits" : 4,
+          "theme" : "update wrkstrm-performance"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update wrkstrmcolor"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update wrkstrmfoundation"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update wrkstrmkit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrmnetworking package name references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrmnetworking package name to wrkstrm-networking"
+        }
+      ],
+      "total" : 124,
+      "weekEnd" : "2026-01-25",
+      "weekStart" : "2026-01-19"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 192,
+        "md" : 6968,
+        "swift" : 2141
+      },
+      "ownedFilesByModule" : {
+        ".clia" : {
+          "docc" : 11,
+          "md" : 49,
+          "swift" : 7
+        },
+        "AGENTS.md" : {
+          "md" : 7
+        },
+        "ARCHITECTURE.md" : {
+          "md" : 3
+        },
+        "README.md" : {
+          "md" : 3
+        },
+        "apple" : {
+          "docc" : 20,
+          "md" : 238,
+          "swift" : 99
+        },
+        "docc" : {
+          "docc" : 74,
+          "md" : 5336,
+          "swift" : 18
+        },
+        "orgs" : {
+          "docc" : 87,
+          "md" : 1329,
+          "swift" : 2017
+        },
+        "web" : {
+          "md" : 3
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "#685"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-shell submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add initial generated site output for code swiftly"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add initializers to commonoptionquote and greeks structs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add linux test workflow for swift universal"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add openclaw runtime docs and update cli dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add openclaw submodule and update references"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add platform minimums override and docc root validator"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add sketch-style svg resources and documentation"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add swift directory, json, and md formatter packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-github-io as github pages submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "do it."
+        },
+        {
+          "commits" : 1,
+          "theme" : "enhance package audit target introspection and update dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "migrate publiclib to swift-public-brokerage-lib"
+        },
+        {
+          "commits" : 1,
+          "theme" : "migrate swift-formatting-core and update dependencies"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move documentation files to private directory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move private docc files to host\/local directory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "redirect design systems docs to wrkstrm.github.io"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor and expand docc memory bundles and resources"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor passkit docs and update roundups"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove publiclib integration from common-broker"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove schwablib and legacy swift-directory-tools"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove tradierlib and add swift-directory-tools package"
+        },
+        {
+          "commits" : 2,
+          "theme" : "remove wrkstrm-github-io submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename index.md files to readme.md across project"
+        },
+        {
+          "commits" : 1,
+          "theme" : "submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "submodules!"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update cli-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update codeswiftly.github.io"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update common-cli"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update common-shell"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc assets and journal entries"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc github pages path conventions"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc paths to reflect new private\/public structure"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update docc-design-system-published-websites.md"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update google-ai-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update local dependency paths in finance packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update macos deployment target and logger declaration"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update package.swift"
+        },
+        {
+          "commits" : 4,
+          "theme" : "update public-lib-swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swift package paths to new orgs directory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swift-format-files.txt"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-github-io"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-kit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-networking"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrmpackageaudit.swift"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update xcode project dependencies and swift settings"
+        }
+      ],
+      "total" : 56,
+      "weekEnd" : "2026-02-01",
+      "weekStart" : "2026-01-26"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 42,
+        "md" : 987,
+        "swift" : 1024
+      },
+      "ownedFilesByModule" : {
+        ".clia" : {
+          "docc" : 5,
+          "md" : 38,
+          "swift" : 2
+        },
+        "AGENTS.md" : {
+          "md" : 5
+        },
+        "ARCHITECTURE.md" : {
+          "md" : 1
+        },
+        "README.md" : {
+          "md" : 1
+        },
+        "apple" : {
+          "md" : 2,
+          "swift" : 149
+        },
+        "docc" : {
+          "docc" : 7,
+          "md" : 451,
+          "swift" : 6
+        },
+        "orgs" : {
+          "docc" : 30,
+          "md" : 489,
+          "swift" : 867
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "#686"
+        },
+        {
+          "commits" : 2,
+          "theme" : "add"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add allora-text org profile readme drafts"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add allora-text org public\/private readme templates"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add claw-meets-clia"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-ai submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add common-shell and switch wrkstrm-main to remote"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add john whitecastle operator journal to memory.docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add notionlib and swiftterminallinkrewriter packages"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add swift playground and update submodule refs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add text-allora mono as submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "audit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "brand assets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "brand identity doc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "bump wrkstrm-finance + wrkstrm-kit submodule refs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "carrie philographic"
+        },
+        {
+          "commits" : 42,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "ci"
+        },
+        {
+          "commits" : 1,
+          "theme" : "claw vs clia doc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "claw vs clia hub"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia card wordmark"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia-agent-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia-agent-cli resources + sample"
+        },
+        {
+          "commits" : 12,
+          "theme" : "clia-org"
+        },
+        {
+          "commits" : 1,
+          "theme" : "clia-org, codeswiftly, openclaw, wrkstrm-finance"
+        },
+        {
+          "commits" : 1,
+          "theme" : "codex hero line"
+        },
+        {
+          "commits" : 1,
+          "theme" : "codex narrative"
+        },
+        {
+          "commits" : 3,
+          "theme" : "common-broker"
+        },
+        {
+          "commits" : 3,
+          "theme" : "common-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "common-shell"
+        },
+        {
+          "commits" : 3,
+          "theme" : "data"
+        },
+        {
+          "commits" : 1,
+          "theme" : "dev curves doc"
+        },
+        {
+          "commits" : 2,
+          "theme" : "docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc merge fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc repo pages"
+        },
+        {
+          "commits" : 7,
+          "theme" : "docs"
+        },
+        {
+          "commits" : 2,
+          "theme" : "feat"
+        },
+        {
+          "commits" : 6,
+          "theme" : "fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "friendlier clia intro"
+        },
+        {
+          "commits" : 1,
+          "theme" : "front page install"
+        },
+        {
+          "commits" : 1,
+          "theme" : "front page reframing"
+        },
+        {
+          "commits" : 1,
+          "theme" : "getting started"
+        },
+        {
+          "commits" : 1,
+          "theme" : "hero q2 2025"
+        },
+        {
+          "commits" : 1,
+          "theme" : "link task-assistant"
+        },
+        {
+          "commits" : 1,
+          "theme" : "main characters categories"
+        },
+        {
+          "commits" : 1,
+          "theme" : "merge into wrapped docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "migrate google-ai-swift package to wrkstrm org"
+        },
+        {
+          "commits" : 1,
+          "theme" : "mono"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move notionlib from system to api domain"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move tau agent triads to wrkstrm-finance org root"
+        },
+        {
+          "commits" : 1,
+          "theme" : "operators"
+        },
+        {
+          "commits" : 1,
+          "theme" : "orange brand"
+        },
+        {
+          "commits" : 1,
+          "theme" : "package-audit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "package-steward"
+        },
+        {
+          "commits" : 1,
+          "theme" : "package-steward v2 inject"
+        },
+        {
+          "commits" : 1,
+          "theme" : "pages redirect fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "per-repo sections"
+        },
+        {
+          "commits" : 3,
+          "theme" : "prepare submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "publish 2025 wrapped"
+        },
+        {
+          "commits" : 1,
+          "theme" : "publish swift-terminal-link-rewriter dependency"
+        },
+        {
+          "commits" : 1,
+          "theme" : "redirect fix"
+        },
+        {
+          "commits" : 2,
+          "theme" : "refactor"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove commonswift brand identity docc bundle"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove design-systems docc stub"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove myplayground.playground"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove private brand refs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename"
+        },
+        {
+          "commits" : 1,
+          "theme" : "replaced by text-allora repos"
+        },
+        {
+          "commits" : 1,
+          "theme" : "repo links"
+        },
+        {
+          "commits" : 1,
+          "theme" : "roster"
+        },
+        {
+          "commits" : 1,
+          "theme" : "roster link"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scale + perf docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scope of work doc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scope stats"
+        },
+        {
+          "commits" : 1,
+          "theme" : "scope tables"
+        },
+        {
+          "commits" : 1,
+          "theme" : "single index.docc root"
+        },
+        {
+          "commits" : 1,
+          "theme" : "swift universal link"
+        },
+        {
+          "commits" : 1,
+          "theme" : "swift universal link placement"
+        },
+        {
+          "commits" : 1,
+          "theme" : "switch commonai to wrkstrm submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "switch finance libs to wrkstrm-finance org"
+        },
+        {
+          "commits" : 1,
+          "theme" : "tau agent moved under org root"
+        },
+        {
+          "commits" : 1,
+          "theme" : "test"
+        },
+        {
+          "commits" : 1,
+          "theme" : "timeline dated"
+        },
+        {
+          "commits" : 1,
+          "theme" : "top section update"
+        },
+        {
+          "commits" : 1,
+          "theme" : "topics reorder"
+        },
+        {
+          "commits" : 1,
+          "theme" : "track common-broker as wrkstrm-finance submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "track swift-public-brokerage-lib as wrkstrm-finance submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "track swift-tradier-lib as wrkstrm-finance submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads + s-type docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads\/s-type topics"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update audit.foundry.json"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update claw vs clia development"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update clia-mac-app.xcscheme"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update clia-org pages submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update laussat-studio pages submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update package.resolved"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update submodule"
+        },
+        {
+          "commits" : 2,
+          "theme" : "update submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update swift-public-brokerage-lib"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-foundation and wrkstrm-networking submodules"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-kit path and add docc workflows"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-kit submodule to latest commit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm-main"
+        },
+        {
+          "commits" : 1,
+          "theme" : "use named remote dependency for common-log"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrapped landing"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrapped overview"
+        },
+        {
+          "commits" : 3,
+          "theme" : "wrkstrm-finance"
+        }
+      ],
+      "total" : 189,
+      "weekEnd" : "2026-02-08",
+      "weekStart" : "2026-02-02"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 95,
+        "md" : 477,
+        "swift" : 175
+      },
+      "ownedFilesByModule" : {
+        ".clia" : {
+          "docc" : 68,
+          "md" : 221,
+          "swift" : 2
+        },
+        "HEARTBEAT.md" : {
+          "md" : 1
+        },
+        "IDENTITY.md" : {
+          "md" : 1
+        },
+        "SOUL.md" : {
+          "md" : 1
+        },
+        "TOOLS.md" : {
+          "md" : 1
+        },
+        "USER.md" : {
+          "md" : 1
+        },
+        "apple" : {
+          "md" : 1,
+          "swift" : 2
+        },
+        "memory" : {
+          "md" : 1
+        },
+        "orgs" : {
+          "docc" : 15,
+          "md" : 140,
+          "swift" : 171
+        },
+        "provisioned" : {
+          "docc" : 12,
+          "md" : 109
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "add provisioned rismay-requests docc bundle; bump rismay.github.io submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add wrkstrm-finance github pages host skeleton"
+        },
+        {
+          "commits" : 1,
+          "theme" : "agenda threads linkage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "agenda-thread-link"
+        },
+        {
+          "commits" : 1,
+          "theme" : "agenda-thread-report threads buckets"
+        },
+        {
+          "commits" : 1,
+          "theme" : "bump clia-org + wrkstrm public docc pages"
+        },
+        {
+          "commits" : 7,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 6,
+          "theme" : "clia"
+        },
+        {
+          "commits" : 1,
+          "theme" : "code-swiftly"
+        },
+        {
+          "commits" : 1,
+          "theme" : "collab route"
+        },
+        {
+          "commits" : 1,
+          "theme" : "common-shell"
+        },
+        {
+          "commits" : 1,
+          "theme" : "commoncli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "declaw request doc"
+        },
+        {
+          "commits" : 3,
+          "theme" : "deps"
+        },
+        {
+          "commits" : 3,
+          "theme" : "design-system"
+        },
+        {
+          "commits" : 1,
+          "theme" : "discord"
+        },
+        {
+          "commits" : 5,
+          "theme" : "docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "email update"
+        },
+        {
+          "commits" : 1,
+          "theme" : "fix swift-docc-deploy provisioned-share workflow"
+        },
+        {
+          "commits" : 10,
+          "theme" : "github-cli"
+        },
+        {
+          "commits" : 1,
+          "theme" : "handoff bucket support"
+        },
+        {
+          "commits" : 1,
+          "theme" : "legacy agenda thread report"
+        },
+        {
+          "commits" : 47,
+          "theme" : "mono"
+        },
+        {
+          "commits" : 1,
+          "theme" : "mono.xcworkspace"
+        },
+        {
+          "commits" : 1,
+          "theme" : "operators collab"
+        },
+        {
+          "commits" : 4,
+          "theme" : "profile"
+        },
+        {
+          "commits" : 2,
+          "theme" : "profiles command rename"
+        },
+        {
+          "commits" : 1,
+          "theme" : "provisioned"
+        },
+        {
+          "commits" : 1,
+          "theme" : "prune commoncli git\/gh adapters to in-use options"
+        },
+        {
+          "commits" : 1,
+          "theme" : "silo collab"
+        },
+        {
+          "commits" : 1,
+          "theme" : "spm"
+        },
+        {
+          "commits" : 1,
+          "theme" : "sre"
+        },
+        {
+          "commits" : 2,
+          "theme" : "submodule"
+        },
+        {
+          "commits" : 25,
+          "theme" : "submodules"
+        },
+        {
+          "commits" : 2,
+          "theme" : "sync"
+        },
+        {
+          "commits" : 1,
+          "theme" : "tenancy schema"
+        },
+        {
+          "commits" : 2,
+          "theme" : "threads"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads mirror command"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triads sidecar jsonl naming"
+        },
+        {
+          "commits" : 1,
+          "theme" : "triage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update clia-org provisioned design system"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update spm pins and local package paths"
+        },
+        {
+          "commits" : 1,
+          "theme" : "v0"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm provisioned"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm requests.docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm-finance pages"
+        },
+        {
+          "commits" : 2,
+          "theme" : "wrkstrm-finance pages host"
+        }
+      ],
+      "total" : 154,
+      "weekEnd" : "2026-02-15",
+      "weekStart" : "2026-02-09"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 260,
+        "md" : 3709,
+        "swift" : 4041
+      },
+      "ownedFilesByModule" : {
+        ".clia" : {
+          "docc" : 3,
+          "md" : 10
+        },
+        ".github-private" : {
+          "md" : 1
+        },
+        ".wrkstrm" : {
+          "docc" : 48,
+          "md" : 388,
+          "swift" : 54
+        },
+        "AGENTS.md" : {
+          "md" : 1
+        },
+        "ARCHITECTURE.md" : {
+          "md" : 1
+        },
+        "HEARTBEAT.md" : {
+          "md" : 1
+        },
+        "IDENTITY.md" : {
+          "md" : 1
+        },
+        "README.md" : {
+          "md" : 1
+        },
+        "docc" : {
+          "md" : 3
+        },
+        "modules\/clia-org" : {
+          "docc" : 1,
+          "md" : 15
+        },
+        "modules\/codeswiftly" : {
+          "docc" : 1,
+          "md" : 18
+        },
+        "modules\/laussat-studio" : {
+          "docc" : 1,
+          "md" : 16
+        },
+        "organisms" : {
+          "docc" : 18,
+          "md" : 147,
+          "swift" : 309
+        },
+        "orgs" : {
+          "docc" : 4,
+          "md" : 27,
+          "swift" : 63
+        },
+        "private" : {
+          "docc" : 67,
+          "md" : 2136,
+          "swift" : 3029
+        },
+        "provisioned" : {
+          "docc" : 100,
+          "md" : 784
+        },
+        "public" : {
+          "docc" : 17,
+          "md" : 159,
+          "swift" : 586
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 2,
+          "theme" : "add"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add declaw v1 demo-flow + transcript docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add git submodule sop and design system docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add operator profile for tkoh and provisioned collab site"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add operator profile scaffold for jakor"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add provisioned wrkstrm token usage docc bundle"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add rismay astrological information to operator memory"
+        },
+        {
+          "commits" : 1,
+          "theme" : "add submodule-audit"
+        },
+        {
+          "commits" : 1,
+          "theme" : "avoid duplicate wrkstrm identities"
+        },
+        {
+          "commits" : 1,
+          "theme" : "bump wrkstrm.github.io pages submodule"
+        },
+        {
+          "commits" : 18,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "code\/mono"
+        },
+        {
+          "commits" : 4,
+          "theme" : "collab tkoh"
+        },
+        {
+          "commits" : 10,
+          "theme" : "docc"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc design"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc design system"
+        },
+        {
+          "commits" : 1,
+          "theme" : "docc-requests"
+        },
+        {
+          "commits" : 2,
+          "theme" : "docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "drop -0"
+        },
+        {
+          "commits" : 2,
+          "theme" : "fix"
+        },
+        {
+          "commits" : 1,
+          "theme" : "fix common-process local dep path for common-log"
+        },
+        {
+          "commits" : 1,
+          "theme" : "lower common-shell\/common-process platforms to macos 14"
+        },
+        {
+          "commits" : 1,
+          "theme" : "lower swift-common-cli and swift-directory-tools platforms to macos 14"
+        },
+        {
+          "commits" : 1,
+          "theme" : "mirror→docc thread pages"
+        },
+        {
+          "commits" : 4,
+          "theme" : "mission-control.sop"
+        },
+        {
+          "commits" : 4,
+          "theme" : "mono"
+        },
+        {
+          "commits" : 1,
+          "theme" : "move swift-threads-cli to wrkstrm public tooling"
+        },
+        {
+          "commits" : 2,
+          "theme" : "onboarding"
+        },
+        {
+          "commits" : 2,
+          "theme" : "org sop"
+        },
+        {
+          "commits" : 1,
+          "theme" : "pantera"
+        },
+        {
+          "commits" : 1,
+          "theme" : "provision wrkstrm-org-design-system docc bundle"
+        },
+        {
+          "commits" : 7,
+          "theme" : "provisioned"
+        },
+        {
+          "commits" : 1,
+          "theme" : "refactor"
+        },
+        {
+          "commits" : 1,
+          "theme" : "remove nested agentify\/openclaw submodules and update submodule docs"
+        },
+        {
+          "commits" : 1,
+          "theme" : "rename submodule design docs to organisms arm"
+        },
+        {
+          "commits" : 5,
+          "theme" : "sop"
+        },
+        {
+          "commits" : 2,
+          "theme" : "submodule"
+        },
+        {
+          "commits" : 1,
+          "theme" : "submodule audit"
+        },
+        {
+          "commits" : 7,
+          "theme" : "swift-threads"
+        },
+        {
+          "commits" : 3,
+          "theme" : "swift-threads-cli"
+        },
+        {
+          "commits" : 6,
+          "theme" : "triage"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm"
+        },
+        {
+          "commits" : 2,
+          "theme" : "wrkstrm sop"
+        },
+        {
+          "commits" : 1,
+          "theme" : "wrkstrm-finance pages host"
+        },
+        {
+          "commits" : 10,
+          "theme" : "wrkstrm.sop"
+        }
+      ],
+      "total" : 119,
+      "weekEnd" : "2026-02-22",
+      "weekStart" : "2026-02-16"
+    },
+    {
+      "ownedFiles" : {
+        "docc" : 27,
+        "md" : 232,
+        "swift" : 303
+      },
+      "ownedFilesByModule" : {
+        "modules\/finance" : {
+          "md" : 5,
+          "swift" : 27
+        },
+        "modules\/laussat-studio" : {
+          "docc" : 1,
+          "md" : 16
+        },
+        "modules\/tau-app" : {
+          "md" : 1
+        },
+        "organisms" : {
+          "docc" : 15,
+          "md" : 110,
+          "swift" : 255
+        },
+        "private" : {
+          "docc" : 1,
+          "md" : 2,
+          "swift" : 8
+        },
+        "provisioned" : {
+          "docc" : 10,
+          "md" : 95
+        },
+        "public" : {
+          "md" : 3,
+          "swift" : 13
+        }
+      },
+      "themes" : [
+        {
+          "commits" : 1,
+          "theme" : "adjust swift-repo-stats cli behavior"
+        },
+        {
+          "commits" : 1,
+          "theme" : "chore"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm repo-stats share content and cli behavior"
+        },
+        {
+          "commits" : 1,
+          "theme" : "update wrkstrm submodule pointers"
+        }
+      ],
+      "total" : 4,
+      "weekEnd" : "2026-03-01",
+      "weekStart" : "2026-02-23"
+    }
+  ]
+}
