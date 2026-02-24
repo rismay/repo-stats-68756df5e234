@@ -7,6 +7,6 @@
 
 This view tracks cumulative `.md` file count across Month windows.
 
-Latest cumulative `.md` files: 6
+Latest cumulative `.md` files: 3253
 
 @Image(source: "index-daily-markdown-file-chart-diagram", alt: "`.md` file trend")

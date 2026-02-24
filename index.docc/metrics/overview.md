@@ -12,10 +12,10 @@ Window: 2026-01-01 through 2026-02-23.
 - Package.swift interval: Month
 - Total commits: 708
 - Submodule scope (`todo3` + nested): 1
-- Latest cumulative `Package.swift`: 6
-- Latest cumulative `.swift`: 27
-- Latest cumulative `.md`: 6
-- Latest cumulative `.docc`: 0
+- Latest cumulative `Package.swift`: 155
+- Latest cumulative `.swift`: 3913
+- Latest cumulative `.md`: 3253
+- Latest cumulative `.docc`: 174
 
 ## Metrics pages
 - <doc:commits>
