@@ -21,18 +21,15 @@ Generated date: 2026-02-23 | Window: 2026-01-01 through 2026-02-23.
 ### Overview
 - <doc:overview>
 
-### Commits and themes
+### Source Control / Git
 - [Commit activity](doc:commits)
-- [Themes](doc:overview)
-
-### Submodule Snapshot
 - [Submodule Count](doc:submodule-count)
 - [Bubble View](doc:submodules)
 
-### Documentation and DocC Surface
-- [Markdown file trend](doc:markdown-files)
-- [DocC file trend](doc:docc-files)
-
-### Swift and SPM Surface
+### Compilable Code
 - [Swift file trend](doc:swift-files)
 - [Package.swift trend](doc:package-swift)
+
+### Machine-readable Protocol Files and Bundles
+- [Markdown file trend](doc:markdown-files)
+- [DocC file trend](doc:docc-files)

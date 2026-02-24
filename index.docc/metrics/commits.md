@@ -9,6 +9,7 @@ This view tracks commit totals by Week interval.
 
 Window: 2026-01-01 through 2026-02-23.
 - Total commits: 707
+- Submodules in latest snapshot (including `todo3` root): 26
 - Active week intervals in range: 8
 
 ## Top themes

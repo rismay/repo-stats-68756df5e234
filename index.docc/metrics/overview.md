@@ -11,6 +11,7 @@ Window: 2026-01-01 through 2026-02-23.
 - File interval: Month
 - Package.swift interval: Month
 - Total commits: 707
+- Submodule scope (`todo3` + nested): 26
 - Latest cumulative `Package.swift`: 167
 - Latest cumulative `.swift`: 3992
 - Latest cumulative `.md`: 3315
