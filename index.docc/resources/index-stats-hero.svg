@@ -5,7 +5,7 @@
 <text x="64" y="95" fill="#94a3b8" font-size="12" font-family="-apple-system, SF Pro Text, system-ui, sans-serif">Source: swift-repo-stats-cli</text>
 <rect x="64" y="116" width="330" height="200" rx="18" fill="#0b1224" stroke="#2563eb" stroke-width="2" opacity="0.96"/>
 <text x="82" y="154" fill="#93c5fd" font-size="12" font-family="-apple-system, SF Pro Text, system-ui, sans-serif" letter-spacing="0.4" font-weight="600">Commits + orgs (mono repos)</text>
-<text x="82" y="200" fill="#f8fafc" font-size="34" font-family="-apple-system, SF Pro Text, system-ui, sans-serif" font-weight="700">708 · 0</text>
+<text x="82" y="200" fill="#f8fafc" font-size="34" font-family="-apple-system, SF Pro Text, system-ui, sans-serif" font-weight="700">708 · 6</text>
 <text x="82" y="238" fill="#cbd5e1" font-size="14" font-family="-apple-system, SF Pro Text, system-ui, sans-serif">Week commits + mono org count window</text>
 <rect x="82" y="264" width="294" height="8" rx="999" fill="#2563eb" opacity="0.33"/>
 <rect x="82" y="264" width="294" height="8" rx="999" fill="#93c5fd" opacity="0.78"/>
