@@ -7,10 +7,10 @@
 
 This view tracks cumulative `Package.swift` totals using Month windows.
 
-Latest cumulative `Package.swift`: 2026-02-01: 167
+Latest cumulative `Package.swift`: 2026-02-01: 6
 
 @Image(source: "index-monthly-package-swift-chart-diagram", alt: "Package.swift trend")
 
 ## Recent monthly snapshots
-- January 2026: 149
-- February 2026: 167
+- January 2026: 90
+- February 2026: 6

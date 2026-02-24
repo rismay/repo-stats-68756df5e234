@@ -7,6 +7,6 @@
 
 This view tracks cumulative `.docc` file count across Month windows.
 
-Latest cumulative `.docc` files: 184
+Latest cumulative `.docc` files: 0
 
 @Image(source: "index-daily-docc-file-chart-diagram", alt: "`.docc` file trend")

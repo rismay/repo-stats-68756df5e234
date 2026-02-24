@@ -2,27 +2,27 @@
   "commitInterval" : "week",
   "cumulativeFiles" : {
     "2026-01" : {
-      "docc" : 128,
-      "md" : 3310,
-      "swift" : 3803
+      "docc" : 55,
+      "md" : 662,
+      "swift" : 1430
     },
     "2026-02" : {
-      "docc" : 184,
-      "md" : 3315,
-      "swift" : 3992
+      "docc" : 0,
+      "md" : 6,
+      "swift" : 27
     }
   },
   "cumulativePackageSwift" : {
-    "2026-01" : 149,
-    "2026-02" : 167
+    "2026-01" : 90,
+    "2026-02" : 6
   },
   "days" : [
     {
       "day" : "2026-01",
       "ownedFiles" : {
-        "docc" : 128,
-        "md" : 3310,
-        "swift" : 3803
+        "docc" : 55,
+        "md" : 662,
+        "swift" : 1430
       },
       "ownedFilesByOrgUser" : {
         ".clia" : {
@@ -732,9 +732,9 @@
     {
       "day" : "2026-02",
       "ownedFiles" : {
-        "docc" : 184,
-        "md" : 3315,
-        "swift" : 3992
+        "docc" : 0,
+        "md" : 6,
+        "swift" : 27
       },
       "ownedFilesByOrgUser" : {
         ".clia" : {
@@ -818,11 +818,11 @@
         "private" : {
           "docc" : 68,
           "md" : 2138,
-          "swift" : 3037
+          "swift" : 3038
         },
         "provisioned" : {
-          "docc" : 122,
-          "md" : 988
+          "docc" : 126,
+          "md" : 999
         },
         "public" : {
           "docc" : 17,
@@ -980,7 +980,7 @@
           "theme" : "carrie philographic"
         },
         {
-          "commits" : 69,
+          "commits" : 70,
           "theme" : "chore"
         },
         {
@@ -1656,7 +1656,7 @@
           "theme" : "wrkstrm.sop"
         }
       ],
-      "total" : 486
+      "total" : 487
     }
   ],
   "fileInterval" : "month",
@@ -1666,9 +1666,9 @@
   "showEmptyWeeks" : false,
   "since" : "2026-01-01",
   "totalOwnedFiles" : {
-    "docc" : 1085,
-    "md" : 19266,
-    "swift" : 9128
+    "docc" : 1089,
+    "md" : 19277,
+    "swift" : 9129
   },
   "totalOwnedFilesByModule" : {
     ".clia" : {
@@ -1753,11 +1753,11 @@
     "private" : {
       "docc" : 68,
       "md" : 2138,
-      "swift" : 3037
+      "swift" : 3038
     },
     "provisioned" : {
-      "docc" : 122,
-      "md" : 988
+      "docc" : 126,
+      "md" : 999
     },
     "public" : {
       "docc" : 17,
@@ -3686,9 +3686,9 @@
     },
     {
       "ownedFiles" : {
-        "docc" : 27,
-        "md" : 232,
-        "swift" : 303
+        "docc" : 31,
+        "md" : 243,
+        "swift" : 304
       },
       "ownedFilesByModule" : {
         "modules\/finance" : {
@@ -3710,11 +3710,11 @@
         "private" : {
           "docc" : 1,
           "md" : 2,
-          "swift" : 8
+          "swift" : 9
         },
         "provisioned" : {
-          "docc" : 10,
-          "md" : 95
+          "docc" : 14,
+          "md" : 106
         },
         "public" : {
           "md" : 3,
@@ -3727,7 +3727,7 @@
           "theme" : "adjust swift-repo-stats cli behavior"
         },
         {
-          "commits" : 1,
+          "commits" : 2,
           "theme" : "chore"
         },
         {
@@ -3739,7 +3739,7 @@
           "theme" : "update wrkstrm submodule pointers"
         }
       ],
-      "total" : 4,
+      "total" : 5,
       "weekEnd" : "2026-03-01",
       "weekStart" : "2026-02-23"
     }

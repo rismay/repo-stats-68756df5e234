@@ -7,7 +7,7 @@
 
 This view tracks cumulative `.swift` file count across Month windows.
 
-Latest cumulative `.swift` files: 3992
+Latest cumulative `.swift` files: 27
 
 @Image(source: "index-daily-swift-file-chart-diagram", alt: "`.swift` file trend")
 

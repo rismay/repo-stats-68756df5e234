@@ -6,6 +6,7 @@
 }
 
 This page visualizes the latest owned-file snapshot by submodule path.
+Scope: `modules/**` (fallback: `orgs/**` when `modules` is unavailable in a historical snapshot).
 
 @Image(source: "index-submodule-bubble-chart-diagram", alt: "Submodule bubble view")
 

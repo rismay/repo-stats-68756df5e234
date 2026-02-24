@@ -36,8 +36,8 @@
 <rect x="681.0" y="144.8148148148148" width="95.5" height="195.1851851851852" fill="#2f80ed" rx="2"/>
 <text x="728.75" y="370" transform="rotate(-45 728.75,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02-16 .. 2026-02-22</text>
 <text x="728.75" y="138" text-anchor="middle" font-size="10" fill="#334155">119</text>
-<rect x="784.5" y="333.4391534391534" width="95.5" height="6.56084656084656" fill="#2f80ed" rx="2"/>
+<rect x="784.5" y="331.7989417989418" width="95.5" height="8.201058201058201" fill="#2f80ed" rx="2"/>
 <text x="832.25" y="370" transform="rotate(-45 832.25,370)" text-anchor="middle" font-size="10" fill="#334155">2026-02-23 .. 2026-03-01</text>
-<text x="832.25" y="327" text-anchor="middle" font-size="10" fill="#334155">4</text>
+<text x="832.25" y="325" text-anchor="middle" font-size="10" fill="#334155">5</text>
 </g>
 </svg>
